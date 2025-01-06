@@ -1,0 +1,22 @@
+/*
+
+* Theme Name: Theme Maxence
+* Version: 1.0.0
+
+*/
+header li{
+    list-style-type: none;
+    display: inline;
+}
+body{
+    background-color: pink;
+}
+section {
+    color:red;
+    background-color: black;
+} 
+h1{
+    font-size:50px;
+    font-weight:Bold;
+    color:green;
+}
