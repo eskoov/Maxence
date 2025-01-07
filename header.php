@@ -9,6 +9,7 @@
 </head>
 <body>
   <header>
+    <h1><?php bloginfo('name'); ?></h1>
     <img src="./logo.png" alt="Mon logo">
     <ul>
       <li><a href="">Accueil</a></li>

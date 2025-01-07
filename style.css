@@ -13,12 +13,12 @@ body{
 }
 section {
     color:black;
-    background-color: goldenrod;
+    background-color: gold;
 } 
 h1{
     font-size:95px;
-    font-weight:300;
-    color:magenta;
+    font-weight:900;
+    color:orangered;
 }
 h2{
     color:red;
