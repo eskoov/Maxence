@@ -6,7 +6,7 @@
 */
 header li{
     list-style-type: none;
-    display: inline;
+    display: block;
 }
 body{
     background-color: pink;
