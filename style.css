@@ -6,17 +6,18 @@
 */
 header li{
     list-style-type: none;
-    display: inline;
+    display: block;
 }
 body{
     background-color: pink;
 }
 section {
-    color:blueviolet;
+    color:black;
+
     background-color: gold;
 } 
 h1{
-    font-size:50px;
-    font-weight:Bold;
-    color:black;
+    font-size:75px;
+    font-weight:300;
+    color:rebeccapurple;
 }
